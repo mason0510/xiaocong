@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center_horizontal"
+    >
+
+<Button 
+	android:text="Show custom dialog" 
+	android:id="@+id/btnDialog" 
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content" />
+<Button 
+	android:text="Popup Window" 
+	android:id="@+id/btnPopupWindow" 
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content" />
+
+	
+
+</LinearLayout>
